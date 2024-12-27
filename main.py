@@ -15,10 +15,7 @@ LOGO = f"""
 ███████╗███████║███████╗   ██║      ██║  ██╗███████╗   ██║   ╚██████╔╝███████╗██║ ╚████║   
 ╚══════╝╚══════╝╚══════╝   ╚═╝      ╚═╝  ╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═══╝                                                                      
                                                 Project Version: {VERSION[0]}
-                                                Project Devs: rzc0d3r, AdityaGarg8, k0re,
-                                                              Fasjeit, alejanpa17, Ischunddu,
-                                                              soladify, AngryBonk, Xoncia,
-                                                              Anteneh13
+                                                MADE BY @imzeme/dc; @.z6me/zeme
 """
 if '--no-logo' in sys.argv:
     LOGO = f"ESET KeyGen {VERSION[0]} by rzc0d3r\n"
