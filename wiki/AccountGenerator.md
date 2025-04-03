@@ -1,7 +1,7 @@
 ## 1. How to generate multiple accounts per run
 Add a command-line argument: ```--repeat {number}```
 
-```{number}``` - instead enter the number of accounts from **1** to **10**
+```{number}``` - Instead, enter the number of accounts
 
 ---
 
@@ -18,7 +18,7 @@ Add a command-line argument: ```--repeat {number}```
   python main.py --chrome --account
   ```
   ```
-  ESET-KeyGen_v1.5.3.5_win64.exe --chrome --account
+  ESET-KeyGen_v1.5.4.0_win64.exe --chrome --account
   ```
   > File name is unique for each version! Do not copy the above command. This is an example!
 
@@ -33,10 +33,10 @@ Add a command-line argument: ```--repeat {number}```
   
   1. Run main.py or executable file use [MBCI](https://github.com/rzc0d3r/ESET-KeyGen/blob/main/wiki/MBCI-Inferface.md):
   ```
-  python main.py --chrome --business-account
+  python main.py --chrome --protecthub-account
   ```
   ```
-  ESET-KeyGen_v1.5.3.5_win64.exe --chrome --protecthub-account
+  ESET-KeyGen_v1.5.4.0_win64.exe --chrome --protecthub-account
   ```
   > File name is unique for each version! Do not copy the above command. This is an example!
   
@@ -60,7 +60,7 @@ Add a command-line argument: ```--repeat {number}```
   python main.py --chrome --account --custom-email-api
   ```
   ```
-  ESET-KeyGen_v1.5.3.5_win64.exe --chrome --account --custom-email-api
+  ESET-KeyGen_v1.5.4.0_win64.exe --chrome --account --custom-email-api
   ```
   > File name is unique for each version! Do not copy the above command. This is an example!
 
@@ -91,7 +91,7 @@ Add a command-line argument: ```--repeat {number}```
   python main.py --chrome --protecthub-account --custom-email-api
   ```
   ```
-  ESET-KeyGen_v1.5.3.5_win64.exe --chrome --protecthub-account --custom-email-api
+  ESET-KeyGen_v1.5.4.0_win64.exe --chrome --protecthub-account --custom-email-api
   ```
   > File name is unique for each version! Do not copy the above command. This is an example!
 
